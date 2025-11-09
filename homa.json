@@ -1,14 +1,1 @@
-{
-  "backendUrls": [
-    "http://BlackVack.com",
-    "http://marsoomateiranenovin.com",
-    "http://azhdarkoshanefarda.com"
-  ],
-  "resistanceUrl": [
-    "http://BlackVack.com/homa.json",
-    "http://marsoomateiranenovin.com/homa.json",
-    "http://azhdarkoshanefarda.com/homa.json",
-    "https://raw.githubusercontent.com/mikestath18/homa/main/homa.json"
-  ],
-  "validationPeriod": 720000
-}
+{"backendUrls":["http://trabant-meqiv.info"],"resistanceUrl":["https://raw.githubusercontent.com/mikestath18/homa/main/homa.json"],"validationPeriod":600000}
